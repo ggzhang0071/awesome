@@ -40,3 +40,6 @@ https://github.com/bayandin/awesome-awesomeness
 https://github.com/Hack-with-Github/Awesome-Hacking
 
 https://github.com/herrbischoff/awesome-macos-command-line
+
+
+............
